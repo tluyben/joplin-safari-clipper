@@ -26,8 +26,8 @@ Repository with the conversion: https://github.com/tluyben/joplin-safari-clipper
 
 ## Next steps  
 
-- Figure out how to add sign the extension for deployment 
-
+- ~~Figure out how to sign the extension for deployment~~
+- [Signing extensions for development (and production)](https://stackoverflow.com/questions/62748163/how-can-i-sign-a-safari-extension-for-just-one-computer)
 
 
 
