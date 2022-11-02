@@ -26,7 +26,7 @@ Repository with the conversion: https://github.com/tluyben/joplin-safari-clipper
 
 ## Next steps  
 
-- Figure out how to add the keys for deployment 
+- Figure out how to add sign the extension for deployment 
 
 
 
