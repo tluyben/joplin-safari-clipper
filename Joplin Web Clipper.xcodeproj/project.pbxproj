@@ -109,12 +109,12 @@
 		1D6D846029130563006FAA82 /* Joplin Web Clipper Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Joplin Web Clipper Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D6D846529130563006FAA82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D6D846629130563006FAA82 /* Joplin Web Clipper.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Joplin Web Clipper.entitlements"; sourceTree = "<group>"; };
-		1D6D848629130564006FAA82 /* popup */ = {isa = PBXFileReference; lastKnownFileType = folder; name = popup; path = "../../../../Library/Application Support/Google/Chrome/Default/Extensions/alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/popup"; sourceTree = "<group>"; };
-		1D6D848729130564006FAA82 /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = background.js; path = "../../../../Library/Application Support/Google/Chrome/Default/Extensions/alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/background.js"; sourceTree = "<group>"; };
-		1D6D848829130564006FAA82 /* _metadata */ = {isa = PBXFileReference; lastKnownFileType = folder; name = _metadata; path = "../../../../Library/Application Support/Google/Chrome/Default/Extensions/alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/_metadata"; sourceTree = "<group>"; };
-		1D6D848929130564006FAA82 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = icons; path = "../../../../Library/Application Support/Google/Chrome/Default/Extensions/alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/icons"; sourceTree = "<group>"; };
-		1D6D848A29130564006FAA82 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../../../Library/Application Support/Google/Chrome/Default/Extensions/alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/manifest.json"; sourceTree = "<group>"; };
-		1D6D848B29130564006FAA82 /* content_scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = content_scripts; path = "../../../../Library/Application Support/Google/Chrome/Default/Extensions/alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/content_scripts"; sourceTree = "<group>"; };
+		1D6D848629130564006FAA82 /* popup */ = {isa = PBXFileReference; lastKnownFileType = folder; name = popup; path = "../alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/popup"; sourceTree = "<group>"; };
+		1D6D848729130564006FAA82 /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = background.js; path = "../alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/background.js"; sourceTree = "<group>"; };
+		1D6D848829130564006FAA82 /* _metadata */ = {isa = PBXFileReference; lastKnownFileType = folder; name = _metadata; path = "../alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/_metadata"; sourceTree = "<group>"; };
+		1D6D848929130564006FAA82 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = icons; path = "../alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/icons"; sourceTree = "<group>"; };
+		1D6D848A29130564006FAA82 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/manifest.json"; sourceTree = "<group>"; };
+		1D6D848B29130564006FAA82 /* content_scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = content_scripts; path = "../alofnhikmmkdbbbgpnglcpdollgjjfek/2.8.1_0/content_scripts"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
